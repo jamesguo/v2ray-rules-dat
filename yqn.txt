@@ -3,3 +3,5 @@ payload:
   - '+.iyunquna.com:8070'
   - '+.iyunquna.com:443'
   - '+.yqn.corp'
+  - '+.yqn.com'
+  - '+.yunquna.com'
