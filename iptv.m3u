@@ -32,7 +32,6 @@ http://zqjy.info/live.php?id=CCTV14HD
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-15音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV-15音乐
 http://zqjy.info/live.php?id=CCTV15HD
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-17农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV-17农业农村
-#https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 http://zqjy.info/live.php?id=CCTV17HD
 #EXTINF:-1 group-title="卫视台" tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 http://180.173.191.27:9898/udp/239.45.3.229:5140
