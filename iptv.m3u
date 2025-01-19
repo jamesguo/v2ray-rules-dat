@@ -16,7 +16,7 @@ http://180.173.191.27:9898/udp/239.45.1.70:5140
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-7国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7国防军事
 http://180.173.191.27:9898/udp/239.45.3.56:5140
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-8电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV-8电视剧
-http://180.173.191.27:9898/udp/239.45.1.71:5140
+http://zqjy.info/live.php?id=CCTV8HD
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-9纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV-9纪录
 http://180.173.191.27:9898/udp/239.45.3.4:5140
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-10科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV-10科教
