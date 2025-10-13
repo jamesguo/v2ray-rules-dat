@@ -5,5 +5,7 @@ payload:
   - '+.chatgpt.com'
   - '+.oaistatic.com'
   - '+.ifconfig.me'
+  - '+.cursor.sh'
+  - '+.cursor.com'
   - 'chat.openai.com.cdn.cloudflare.net'
   - 'openaiapi-site.azureedge.net'
