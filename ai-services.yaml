@@ -1,0 +1,36 @@
+payload:
+
+  # =========================
+  # OpenAI / ChatGPT
+  # =========================
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,chat.openai.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openaipublic.blob.core.windows.net
+
+  # =========================
+  # Claude / Anthropic
+  # =========================
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+
+  # Claude 登录 / 会话 / 客服依赖
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+
+  # =========================
+  # Cursor
+  # =========================
+  - DOMAIN-SUFFIX,cursor.sh
+  - DOMAIN-SUFFIX,cursor.com
+  - DOMAIN-SUFFIX,cursor-cdn.com
+
+  # =========================
+  # AI 通用基础设施（严格筛选）
+  # =========================
+  # 仅保留「明确为 AI 使用」的基础设施
+  - DOMAIN-SUFFIX,ai.cloudflare.com
