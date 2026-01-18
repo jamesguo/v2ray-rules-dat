@@ -5,7 +5,6 @@ payload:
   # =========================
   - '+.openai.com'
   - '+.chatgpt.com'
-  - '+.chat.openai.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openaiapi-site.azureedge.net'
