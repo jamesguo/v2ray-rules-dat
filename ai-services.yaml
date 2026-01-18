@@ -15,6 +15,7 @@ payload:
   # Claude / Anthropic
   # =========================
   - '+.claude.ai'
+  - '+.claude.com'
   - '+.anthropic.com'
   - '+.claudeusercontent.com'
 
