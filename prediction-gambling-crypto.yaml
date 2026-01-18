@@ -3,86 +3,86 @@ payload:
   # =========================
   # Prediction Markets
   # =========================
-  - polymarket.com
-  - polymarket.io
-  - polymarket.xyz
-  - polyapi.io
-  - polymarket-api.com
+  - +.polymarket.com
+  - +.polymarket.io
+  - +.polymarket.xyz
+  - +.polyapi.io
+  - +.polymarket-api.com
 
-  - kalshi.com
-  - kalshi.co
-  - kalshiapi.com
+  - +.kalshi.com
+  - +.kalshi.co
+  - +.kalshiapi.com
 
-  - predictit.org
-  - manifold.markets
+  - +.predictit.org
+  - +.manifold.markets
 
   # =========================
   # Gambling / Betting
   # =========================
-  - betonline.ag
-  - betonline.com
-  - betonline.eu
-  - betonlineaffiliates.com
+  - +.betonline.ag
+  - +.betonline.com
+  - +.betonline.eu
+  - +.betonlineaffiliates.com
 
-  - bovada.lv
-  - ignitioncasino.eu
-  - sportsbetting.ag
+  - +.bovada.lv
+  - +.ignitioncasino.eu
+  - +.sportsbetting.ag
 
-  - stake.com
-  - stake.us
-  - roobet.com
-  - rollbit.com
+  - +.stake.com
+  - +.stake.us
+  - +.roobet.com
+  - +.rollbit.com
 
-  - bet365.com
-  - 1xbet.com
+  - +.bet365.com
+  - +.1xbet.com
 
   # =========================
   # Crypto Exchanges
   # =========================
-  - okx.com
-  - okx.me
-  - okxcdn.com
-  - okx.com.hk
+  - +.okx.com
+  - +.okx.me
+  - +.okxcdn.com
+  - +.okx.com.hk
 
-  - binance.com
-  - coinbase.com
-  - kraken.com
-  - bybit.com
-  - bybitglobal.com
-  - bitget.com
+  - +.binance.com
+  - +.coinbase.com
+  - +.kraken.com
+  - +.bybit.com
+  - +.bybitglobal.com
+  - +.bitget.com
 
-  - kucoin.com
-  - kucoinassets.com
+  - +.kucoin.com
+  - +.kucoinassets.com
 
-  - gate.io
-  - gateimg.com
+  - +.gate.io
+  - +.gateimg.com
 
-  - mexc.com
-  - mexcusercontent.com
+  - +.mexc.com
+  - +.mexcusercontent.com
 
   # =========================
   # Wallets
   # =========================
-  - metamask.io
-  - phantom.app
-  - trustwallet.com
+  - +.metamask.io
+  - +.phantom.app
+  - +.trustwallet.com
 
   # =========================
   # Web3 Infra / RPC
   # =========================
-  - infura.io
-  - alchemy.com
-  - ankr.com
-  - quicknode.com
-  - polygon.technology
+  - +.infura.io
+  - +.alchemy.com
+  - +.ankr.com
+  - +.quicknode.com
+  - +.polygon.technology
 
   # =========================
   # Risk Control / Analytics
   # =========================
-  - cloudflareinsights.com
-  - cf-ipfs.com
+  - +.cloudflareinsights.com
+  - +.cf-ipfs.com
 
-  - segment.io
-  - amplitude.com
-  - sentry.io
-  - datadoghq.com
+  - +.segment.io
+  - +.amplitude.com
+  - +.sentry.io
+  - +.datadoghq.com
