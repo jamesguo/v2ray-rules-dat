@@ -1,65 +1,86 @@
 payload:
 
   # =========================
-  # X / Twitter
+  # X / Twitter (Media-heavy)
   # =========================
   - '+.x.com'
   - '+.twitter.com'
   - '+.t.co'
   - '+.twimg.com'
+  - '+.video.twimg.com'
+  - '+.pbs.twimg.com'
+  - '+.abs.twimg.com'
 
   # =========================
-  # Instagram / Meta
+  # Instagram (Images / Reels / CDN)
   # =========================
   - '+.instagram.com'
   - '+.cdninstagram.com'
   - '+.fbcdn.net'
+  - '+.fbsbx.com'
+  - '+.igsonar.com'
+  - '+.igcdn.com'
 
   # =========================
-  # Facebook / Meta
+  # Facebook (Video / Image / CDN)
   # =========================
   - '+.facebook.com'
   - '+.facebook.net'
+  - '+.fbcdn.net'
+  - '+.fbsbx.com'
   - '+.meta.com'
-  - '+.whatsapp.com'
-  - '+.whatsapp.net'
+  - '+.m.me'
 
   # =========================
-  # Telegram
+  # WhatsApp (Meta Media)
+  # =========================
+  - '+.whatsapp.com'
+  - '+.whatsapp.net'
+  - '+.whatsapp-cdn.net'
+
+  # =========================
+  # Telegram (Video / Image / Files)
   # =========================
   - '+.telegram.org'
   - '+.t.me'
   - '+.telegra.ph'
   - '+.tdesktop.com'
   - '+.tg.dev'
+  - '+.telegram-cdn.org'
 
   # =========================
-  # Reddit
+  # Reddit (Media / Video / CDN)
   # =========================
   - '+.reddit.com'
   - '+.redd.it'
   - '+.redditmedia.com'
+  - '+.redditstatic.com'
+  - '+.v.redd.it'
 
   # =========================
-  # Discord
+  # Discord (CDN / Voice / Media)
   # =========================
   - '+.discord.com'
   - '+.discord.gg'
   - '+.discordapp.com'
   - '+.discordapp.net'
   - '+.discordcdn.com'
+  - '+.media.discordapp.net'
 
   # =========================
-  # TikTok (海外版)
+  # TikTok (Global / Media / CDN)
   # =========================
   - '+.tiktok.com'
   - '+.tiktokcdn.com'
   - '+.tiktokv.com'
   - '+.byteoversea.com'
+  - '+.ibyteimg.com'
+  - '+.ibytedtos.com'
 
   # =========================
-  # YouTube / Google Social
+  # YouTube (Video / Image / CDN)
   # =========================
   - '+.youtube.com'
   - '+.youtu.be'
   - '+.ytimg.com'
+  - '+.googlevideo.com'
