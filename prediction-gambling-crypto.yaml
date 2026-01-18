@@ -3,33 +3,33 @@ payload:
   # =========================
   # Prediction Markets
   # =========================
-  - 'DOMAIN-SUFFIX,polymarket.com'
-  - 'DOMAIN-SUFFIX,kalshi.com'
-  - 'DOMAIN-SUFFIX,predictit.org'
-  - 'DOMAIN-SUFFIX,manifold.markets'
+  - '+.polymarket.com'
+  - '+.kalshi.com'
+  - '+.predictit.org'
+  - '+.manifold.markets'
 
   # =========================
   # Gambling / Betting
   # =========================
-  - 'DOMAIN-SUFFIX,betonline.ag'
-  - 'DOMAIN-SUFFIX,bovada.lv'
-  - 'DOMAIN-SUFFIX,stake.com'
-  - 'DOMAIN-SUFFIX,stake.us'
-  - 'DOMAIN-SUFFIX,roobet.com'
-  - 'DOMAIN-SUFFIX,rollbit.com'
-  - 'DOMAIN-SUFFIX,bet365.com'
-  - 'DOMAIN-SUFFIX,1xbet.com'
+  - '+.betonline.ag'
+  - '+.bovada.lv'
+  - '+.stake.com'
+  - '+.stake.us'
+  - '+.roobet.com'
+  - '+.rollbit.com'
+  - '+.bet365.com'
+  - '+.1xbet.com'
 
   # =========================
   # Crypto Exchanges / DeFi
   # =========================
-  - 'DOMAIN-SUFFIX,okx.com'
-  - 'DOMAIN-SUFFIX,binance.com'
-  - 'DOMAIN-SUFFIX,coinbase.com'
-  - 'DOMAIN-SUFFIX,kraken.com'
-  - 'DOMAIN-SUFFIX,bybit.com'
-  - 'DOMAIN-SUFFIX,bitget.com'
-  - 'DOMAIN-SUFFIX,kucoin.com'
-  - 'DOMAIN-SUFFIX,gate.io'
-  - 'DOMAIN-SUFFIX,uniswap.org'
-  - 'DOMAIN-SUFFIX,opensea.io'
+  - '+.okx.com'
+  - '+.binance.com'
+  - '+.coinbase.com'
+  - '+.kraken.com'
+  - '+.bybit.com'
+  - '+.bitget.com'
+  - '+.kucoin.com'
+  - '+.gate.io'
+  - '+.uniswap.org'
+  - '+.opensea.io'
