@@ -3,86 +3,33 @@ payload:
   # =========================
   # Prediction Markets
   # =========================
-  - +.polymarket.com
-  - +.polymarket.io
-  - +.polymarket.xyz
-  - +.polyapi.io
-  - +.polymarket-api.com
-
-  - +.kalshi.com
-  - +.kalshi.co
-  - +.kalshiapi.com
-
-  - +.predictit.org
-  - +.manifold.markets
+  - 'DOMAIN-SUFFIX,polymarket.com'
+  - 'DOMAIN-SUFFIX,kalshi.com'
+  - 'DOMAIN-SUFFIX,predictit.org'
+  - 'DOMAIN-SUFFIX,manifold.markets'
 
   # =========================
   # Gambling / Betting
   # =========================
-  - +.betonline.ag
-  - +.betonline.com
-  - +.betonline.eu
-  - +.betonlineaffiliates.com
-
-  - +.bovada.lv
-  - +.ignitioncasino.eu
-  - +.sportsbetting.ag
-
-  - +.stake.com
-  - +.stake.us
-  - +.roobet.com
-  - +.rollbit.com
-
-  - +.bet365.com
-  - +.1xbet.com
+  - 'DOMAIN-SUFFIX,betonline.ag'
+  - 'DOMAIN-SUFFIX,bovada.lv'
+  - 'DOMAIN-SUFFIX,stake.com'
+  - 'DOMAIN-SUFFIX,stake.us'
+  - 'DOMAIN-SUFFIX,roobet.com'
+  - 'DOMAIN-SUFFIX,rollbit.com'
+  - 'DOMAIN-SUFFIX,bet365.com'
+  - 'DOMAIN-SUFFIX,1xbet.com'
 
   # =========================
-  # Crypto Exchanges
+  # Crypto Exchanges / DeFi
   # =========================
-  - +.okx.com
-  - +.okx.me
-  - +.okxcdn.com
-  - +.okx.com.hk
-
-  - +.binance.com
-  - +.coinbase.com
-  - +.kraken.com
-  - +.bybit.com
-  - +.bybitglobal.com
-  - +.bitget.com
-
-  - +.kucoin.com
-  - +.kucoinassets.com
-
-  - +.gate.io
-  - +.gateimg.com
-
-  - +.mexc.com
-  - +.mexcusercontent.com
-
-  # =========================
-  # Wallets
-  # =========================
-  - +.metamask.io
-  - +.phantom.app
-  - +.trustwallet.com
-
-  # =========================
-  # Web3 Infra / RPC
-  # =========================
-  - +.infura.io
-  - +.alchemy.com
-  - +.ankr.com
-  - +.quicknode.com
-  - +.polygon.technology
-
-  # =========================
-  # Risk Control / Analytics
-  # =========================
-  - +.cloudflareinsights.com
-  - +.cf-ipfs.com
-
-  - +.segment.io
-  - +.amplitude.com
-  - +.sentry.io
-  - +.datadoghq.com
+  - 'DOMAIN-SUFFIX,okx.com'
+  - 'DOMAIN-SUFFIX,binance.com'
+  - 'DOMAIN-SUFFIX,coinbase.com'
+  - 'DOMAIN-SUFFIX,kraken.com'
+  - 'DOMAIN-SUFFIX,bybit.com'
+  - 'DOMAIN-SUFFIX,bitget.com'
+  - 'DOMAIN-SUFFIX,kucoin.com'
+  - 'DOMAIN-SUFFIX,gate.io'
+  - 'DOMAIN-SUFFIX,uniswap.org'
+  - 'DOMAIN-SUFFIX,opensea.io'
