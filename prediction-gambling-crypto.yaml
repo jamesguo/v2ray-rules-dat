@@ -3,86 +3,86 @@ payload:
   # =========================
   # Prediction Markets
   # =========================
-  # Polymarket
-  - DOMAIN-SUFFIX,polymarket.com
-  - DOMAIN-SUFFIX,polymarket.io
-  - DOMAIN-SUFFIX,polymarket.xyz
-  - DOMAIN-SUFFIX,polyapi.io
-  - DOMAIN-SUFFIX,polymarket-api.com
+  - polymarket.com
+  - polymarket.io
+  - polymarket.xyz
+  - polyapi.io
+  - polymarket-api.com
 
-  # Kalshi
-  - DOMAIN-SUFFIX,kalshi.com
-  - DOMAIN-SUFFIX,kalshi.co
-  - DOMAIN-SUFFIX,kalshiapi.com
+  - kalshi.com
+  - kalshi.co
+  - kalshiapi.com
+
+  - predictit.org
+  - manifold.markets
 
   # =========================
   # Gambling / Betting
   # =========================
-  # BetOnline
-  - DOMAIN-SUFFIX,betonline.ag
-  - DOMAIN-SUFFIX,betonline.com
-  - DOMAIN-SUFFIX,betonline.eu
-  - DOMAIN-SUFFIX,betonlineaffiliates.com
+  - betonline.ag
+  - betonline.com
+  - betonline.eu
+  - betonlineaffiliates.com
 
-  # Bovada / Ignition
-  - DOMAIN-SUFFIX,bovada.lv
-  - DOMAIN-SUFFIX,ignitioncasino.eu
-  - DOMAIN-SUFFIX,sportsbetting.ag
+  - bovada.lv
+  - ignitioncasino.eu
+  - sportsbetting.ag
 
-  # Stake / Roobet
-  - DOMAIN-SUFFIX,stake.com
-  - DOMAIN-SUFFIX,stake.us
-  - DOMAIN-SUFFIX,roobet.com
+  - stake.com
+  - stake.us
+  - roobet.com
+  - rollbit.com
+
+  - bet365.com
+  - 1xbet.com
 
   # =========================
   # Crypto Exchanges
   # =========================
-  # OKX
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN-SUFFIX,okx.me
-  - DOMAIN-SUFFIX,okxcdn.com
-  - DOMAIN-SUFFIX,okx.com.hk
+  - okx.com
+  - okx.me
+  - okxcdn.com
+  - okx.com.hk
 
-  # Bybit
-  - DOMAIN-SUFFIX,bybit.com
-  - DOMAIN-SUFFIX,bybitglobal.com
+  - binance.com
+  - coinbase.com
+  - kraken.com
+  - bybit.com
+  - bybitglobal.com
+  - bitget.com
 
-  # KuCoin
-  - DOMAIN-SUFFIX,kucoin.com
-  - DOMAIN-SUFFIX,kucoinassets.com
+  - kucoin.com
+  - kucoinassets.com
 
-  # Gate
-  - DOMAIN-SUFFIX,gate.io
-  - DOMAIN-SUFFIX,gateimg.com
+  - gate.io
+  - gateimg.com
 
-  # MEXC
-  - DOMAIN-SUFFIX,mexc.com
-  - DOMAIN-SUFFIX,mexcusercontent.com
+  - mexc.com
+  - mexcusercontent.com
 
   # =========================
   # Wallets
   # =========================
-  - DOMAIN-SUFFIX,metamask.io
-  - DOMAIN-SUFFIX,phantom.app
-  - DOMAIN-SUFFIX,trustwallet.com
+  - metamask.io
+  - phantom.app
+  - trustwallet.com
 
   # =========================
-  # Web3 RPC / Infra
+  # Web3 Infra / RPC
   # =========================
-  - DOMAIN-SUFFIX,infura.io
-  - DOMAIN-SUFFIX,alchemy.com
-  - DOMAIN-SUFFIX,ankr.com
-  - DOMAIN-SUFFIX,quicknode.com
-  - DOMAIN-SUFFIX,polygon.technology
+  - infura.io
+  - alchemy.com
+  - ankr.com
+  - quicknode.com
+  - polygon.technology
 
   # =========================
-  # CDN / Risk Control / Analytics
+  # Risk Control / Analytics
   # =========================
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloudflareinsights.com
-  - DOMAIN-SUFFIX,cf-ipfs.com
+  - cloudflareinsights.com
+  - cf-ipfs.com
 
-  - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,amplitude.com
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,datadoghq.com
+  - segment.io
+  - amplitude.com
+  - sentry.io
+  - datadoghq.com
