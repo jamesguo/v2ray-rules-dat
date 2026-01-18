@@ -3,7 +3,7 @@ payload:
   # =========================
   # Prediction Markets
   # =========================
-  - '+.polymarket.com'
+  - 'DOMAIN-SUFFIX,polymarket.com'
   - 'DOMAIN-SUFFIX,kalshi.com'
   - 'DOMAIN-SUFFIX,predictit.org'
   - 'DOMAIN-SUFFIX,manifold.markets'
