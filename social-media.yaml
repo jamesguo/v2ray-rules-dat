@@ -1,0 +1,65 @@
+payload:
+
+  # =========================
+  # X / Twitter
+  # =========================
+  - '+.x.com'
+  - '+.twitter.com'
+  - '+.t.co'
+  - '+.twimg.com'
+
+  # =========================
+  # Instagram / Meta
+  # =========================
+  - '+.instagram.com'
+  - '+.cdninstagram.com'
+  - '+.fbcdn.net'
+
+  # =========================
+  # Facebook / Meta
+  # =========================
+  - '+.facebook.com'
+  - '+.facebook.net'
+  - '+.meta.com'
+  - '+.whatsapp.com'
+  - '+.whatsapp.net'
+
+  # =========================
+  # Telegram
+  # =========================
+  - '+.telegram.org'
+  - '+.t.me'
+  - '+.telegra.ph'
+  - '+.tdesktop.com'
+  - '+.tg.dev'
+
+  # =========================
+  # Reddit
+  # =========================
+  - '+.reddit.com'
+  - '+.redd.it'
+  - '+.redditmedia.com'
+
+  # =========================
+  # Discord
+  # =========================
+  - '+.discord.com'
+  - '+.discord.gg'
+  - '+.discordapp.com'
+  - '+.discordapp.net'
+  - '+.discordcdn.com'
+
+  # =========================
+  # TikTok (海外版)
+  # =========================
+  - '+.tiktok.com'
+  - '+.tiktokcdn.com'
+  - '+.tiktokv.com'
+  - '+.byteoversea.com'
+
+  # =========================
+  # YouTube / Google Social
+  # =========================
+  - '+.youtube.com'
+  - '+.youtu.be'
+  - '+.ytimg.com'
