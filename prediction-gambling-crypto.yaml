@@ -1,0 +1,88 @@
+payload:
+
+  # =========================
+  # Prediction Markets
+  # =========================
+  # Polymarket
+  - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-SUFFIX,polymarket.io
+  - DOMAIN-SUFFIX,polymarket.xyz
+  - DOMAIN-SUFFIX,polyapi.io
+  - DOMAIN-SUFFIX,polymarket-api.com
+
+  # Kalshi
+  - DOMAIN-SUFFIX,kalshi.com
+  - DOMAIN-SUFFIX,kalshi.co
+  - DOMAIN-SUFFIX,kalshiapi.com
+
+  # =========================
+  # Gambling / Betting
+  # =========================
+  # BetOnline
+  - DOMAIN-SUFFIX,betonline.ag
+  - DOMAIN-SUFFIX,betonline.com
+  - DOMAIN-SUFFIX,betonline.eu
+  - DOMAIN-SUFFIX,betonlineaffiliates.com
+
+  # Bovada / Ignition
+  - DOMAIN-SUFFIX,bovada.lv
+  - DOMAIN-SUFFIX,ignitioncasino.eu
+  - DOMAIN-SUFFIX,sportsbetting.ag
+
+  # Stake / Roobet
+  - DOMAIN-SUFFIX,stake.com
+  - DOMAIN-SUFFIX,stake.us
+  - DOMAIN-SUFFIX,roobet.com
+
+  # =========================
+  # Crypto Exchanges
+  # =========================
+  # OKX
+  - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okx.me
+  - DOMAIN-SUFFIX,okxcdn.com
+  - DOMAIN-SUFFIX,okx.com.hk
+
+  # Bybit
+  - DOMAIN-SUFFIX,bybit.com
+  - DOMAIN-SUFFIX,bybitglobal.com
+
+  # KuCoin
+  - DOMAIN-SUFFIX,kucoin.com
+  - DOMAIN-SUFFIX,kucoinassets.com
+
+  # Gate
+  - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,gateimg.com
+
+  # MEXC
+  - DOMAIN-SUFFIX,mexc.com
+  - DOMAIN-SUFFIX,mexcusercontent.com
+
+  # =========================
+  # Wallets
+  # =========================
+  - DOMAIN-SUFFIX,metamask.io
+  - DOMAIN-SUFFIX,phantom.app
+  - DOMAIN-SUFFIX,trustwallet.com
+
+  # =========================
+  # Web3 RPC / Infra
+  # =========================
+  - DOMAIN-SUFFIX,infura.io
+  - DOMAIN-SUFFIX,alchemy.com
+  - DOMAIN-SUFFIX,ankr.com
+  - DOMAIN-SUFFIX,quicknode.com
+  - DOMAIN-SUFFIX,polygon.technology
+
+  # =========================
+  # CDN / Risk Control / Analytics
+  # =========================
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cloudflareinsights.com
+  - DOMAIN-SUFFIX,cf-ipfs.com
+
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,amplitude.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,datadoghq.com
