@@ -5,7 +5,7 @@ payload:
   - '+.yqn.corp'
   - '+.yqn.com'
   - '+.yunquna.com'
-  - '+.qax.yqn.corp:+'
+  - '+.qax.yqn.corp'
   - '42069.qax.yqn.corp:42069'
   - '47.236.159.158'
   - '47.236.159.158:3000'
